@@ -1,1 +1,1 @@
-use cx file explorer os somthing to install it.
+use cx file explorer or somthing to install it.
